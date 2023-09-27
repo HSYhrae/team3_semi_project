@@ -530,11 +530,13 @@ Jeonse price prediction
         
 ### 최동원
 - 오늘 한일
-  - 00
+  - LightGBM 최적의 하이퍼파라미터 탐색
+  - 머신러닝, 딥러닝 PPT 작성
 - 오늘 못한일
-  - 00
+  - LightGBM 세팅값 수정
 - 내일 할 일
-  - ㄴㄴ
+  - LightGBM 세팅값 수정
+  - 머신러닝, 딥러닝 PPT 작성
 
 ### 최선재
 - 오늘한 일 :
